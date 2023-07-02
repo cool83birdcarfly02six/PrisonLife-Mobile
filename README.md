@@ -5,7 +5,7 @@ if not xeLdpuU4oI1svEzC then
     writefile("lightuxkey.txt", "start")
 end
 local hJm0LPaMNsN32FSAD = readfile("lightuxkey.txt")
-if hJm0LPaMNsN32FSAD ~= "ruRJz9TYLsvn2gfI" then
+if hJm0LPaMNsN32FSAD ~= "mkKiHsoI37odiVgh" then
 writefile("lightuxkey.txt", "mkKiHsoI37odiVgh")
 coroutine.wrap(function()
 wait(10)
